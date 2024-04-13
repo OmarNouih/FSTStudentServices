@@ -14,7 +14,7 @@ Welcome to the FST Student Services! This repository houses the source code for 
 
 For a detailed overview of the project scope, objectives, and methodologies, please refer to the project description document provided below:
 
-[FST Academic Gateway Project Description (PDF)](https://github.com/OmarNouih/FSTStudentServices/blob/main/Description.pdf)
+[FST Student Services Project Description (PDF)](https://github.com/OmarNouih/FSTStudentServices/blob/main/Description.pdf)
 
 
 ## Visual Preview
