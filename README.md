@@ -9,6 +9,13 @@ Welcome to the FST Student Services! This repository houses the source code for 
 - **Academic Resources**: Easy access to course materials, schedules, and academic advisories.
 - **Event Management**: Up-to-date information on upcoming campus events and activities.
 - **Administrative Services**: Streamlined access to essential administrative functions and faculties.
+- 
+## Project Overview
+
+For a detailed overview of the project scope, objectives, and methodologies, please refer to the project description document provided below:
+
+[FST Academic Gateway Project Description (PDF)](https://github.com/OmarNouih/FSTStudentServices/blob/main/Description.pdf)
+
 
 ## Visual Preview
 
